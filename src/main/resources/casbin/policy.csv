@@ -1,0 +1,5 @@
+p, admin, data, read, appUid1
+p, admin, data1, write, appUid2
+p, admin, data234, read, appUid1
+p, user, data234, write, appUid1
+g, user, admin
